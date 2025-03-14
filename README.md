@@ -1,6 +1,8 @@
 # 🎮 Rockstar Games Repository
 
-![Rockstar Games Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/640px-Rockstar_logo_for_tweets.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/640px-Rockstar_logo_for_tweets.png" alt="Rockstar Games Logo" width="200px">
+</p>
 
 Welcome to the **Rockstar Games Repository**! 🚀 This repository is dedicated to storing and organizing games developed by **Rockstar Games**. 
 
@@ -23,4 +25,3 @@ For any inquiries, please reach out directly. 📩
 
 ---
 🎮 *Keep gaming and exploring Rockstar's legendary worlds!* 🌍
-
